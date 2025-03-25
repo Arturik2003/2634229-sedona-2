@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артур Ковальчук](https://up.htmlacademy.ru/htmlcss-individual/2/user/2634229).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/id29644).
 
 ---
 
