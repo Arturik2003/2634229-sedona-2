@@ -2,7 +2,7 @@
 
 * Студент: [Артур Ковальчук](https://up.htmlacademy.ru/htmlcss-individual/2/user/2634229).
 * Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/id29644).
-
+* Сайт: [Мой проект Седона](https://arturik2003.github.io/2634229-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
